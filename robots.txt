@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeijeinah.nealclark.co.uk/sitemap.xml
